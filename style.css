@@ -1,0 +1,38 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+div {
+    width:100px;
+    height:100px;
+    border: 1px solid black;
+    float:left;
+    padding: 1px;
+    text-align:center;
+}
+
+
+/*This is a CSS comment*/
+
+.red {
+  background-color: #b30000;
+}
+.orange{
+  background-color: #ad4500;
+}
+.yellow{
+  background-color:#a88400;
+}
+.lyellow{
+  background-color: #c3c601;
+}
+.pyellow{
+  background-color:  #e4e458;
+}
+.paleyellow{
+  background-color: #f8f891;
+}
+.offwhite{
+  background-color: #f0f0b7;
+}
